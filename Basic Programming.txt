@@ -1,0 +1,5 @@
+Answer:
+1. integer, number, float
+2. char, varchar
+3. 113
+4. 2

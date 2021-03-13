@@ -1,0 +1,4 @@
+Answer:
+1. It's a test that sometimes fails, but if you retry it enough times, it passes, eventually without any code changes.
+2. use explicit wait
+3. use reCAPTHA v2 or v3
